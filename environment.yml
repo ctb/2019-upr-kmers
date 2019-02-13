@@ -1,0 +1,10 @@
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+dependencies:
+  - sourmash==2.0.0a11
+  - screed
+  - matplotlib
+  - pip:
+    - matplotlib_venn
