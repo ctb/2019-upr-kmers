@@ -9,3 +9,15 @@ genome_compare.mat
 genome_compare.mat.labels.txt
 shew_os185.fa.sig
 shew_os223.fa.sig
+.sbt.all-genomes/
+TODO
+all-genomes.sbt.json
+big_genomes/
+fake-metagenome.fa
+fake-metagenome.fa.sig
+genome_compare.mat.dendro.png
+genome_compare.mat.hist.png
+genome_compare.mat.matrix.png
+index.ipynb
+podar-lineage.csv
+taxdb.lca.json

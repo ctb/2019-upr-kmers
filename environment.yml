@@ -6,6 +6,7 @@ dependencies:
   - sourmash==2.0.0a11
   - screed
   - matplotlib
+  - pandas
   - pip:
     - matplotlib_venn
     - mmh3
